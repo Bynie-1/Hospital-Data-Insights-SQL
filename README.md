@@ -47,7 +47,7 @@
 
 ☁︎ How to Use
 ⟡ Clone the repository:
-⟡ git clone https://github.com/your-username/Hospital-Data-Insights-SQL.git
+⟡ git clone https://github.com/Bynie-1/Hospital-Data-Insights-SQL.git
 cd Hospital-Data-Insights-SQL
 
 ⟡ Import the dataset into your SQL environment:
